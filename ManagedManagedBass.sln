@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedManagedBass", "ManagedManagedBass\ManagedManagedBass.csproj", "{3B2AA578-BE67-4474-8839-161B1581802A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleApp", "ExampleApp\ExampleApp.csproj", "{D26469E5-CFE1-4F0B-935F-55A90893A35F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2AA578-BE67-4474-8839-161B1581802A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2AA578-BE67-4474-8839-161B1581802A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2AA578-BE67-4474-8839-161B1581802A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2AA578-BE67-4474-8839-161B1581802A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26469E5-CFE1-4F0B-935F-55A90893A35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26469E5-CFE1-4F0B-935F-55A90893A35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26469E5-CFE1-4F0B-935F-55A90893A35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26469E5-CFE1-4F0B-935F-55A90893A35F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
